@@ -56,7 +56,3 @@ We welcome contributions from the community. Please follow the steps below to co
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us at **148581386+rwxce@users.noreply.github.com**.
